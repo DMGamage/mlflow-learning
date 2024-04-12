@@ -11,4 +11,4 @@ mlflow.end_run()
 n_estimators=10
 criterion='gini'
 
-mlflow.log_param('n_estimators':n_estimators)
+mlflow.log_params('n_estimators':n_estimators)
