@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dhanushka/Documents/Mlflow%20Practice/mlruns/278410029132038523/c5f6671433e0431d94e71811ff3fbc50/artifacts
+end_time: 1712993192280
+entry_point_name: ''
+experiment_id: '278410029132038523'
+lifecycle_stage: active
+run_id: c5f6671433e0431d94e71811ff3fbc50
+run_name: Example Demo
+run_uuid: c5f6671433e0431d94e71811ff3fbc50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712993192250
+status: 3
+tags: []
+user_id: dhanushka
